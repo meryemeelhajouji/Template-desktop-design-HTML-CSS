@@ -1,0 +1,11 @@
+.cartes{
+    margin: 100px 80px;
+ 
+}
+.carte{
+    border: black solid 2px;
+    display: inline-table;
+    width: 400px;
+   padding: 30px 20px;
+    
+}
